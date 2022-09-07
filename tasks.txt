@@ -1,3 +1,0 @@
-1) Как установить и настроить Zabbix для мониторинга служб, серверов и сети
-Базы данных, Защита ПО и безопасность
-https://freelancehunt.com/project/install-zabbix-for-company/1105025.html
